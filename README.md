@@ -1,0 +1,2 @@
+# MacTahoeThemeInstall
+Apply Tahoe theme
